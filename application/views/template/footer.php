@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
    <div class="container text-center">
       <small>Hak Cipta &copy; 2017 <?php if(date('Y')!=2017) echo "- ".date('Y'); ?> Kec. Simpang Katis, Kab. Bangka Tengah All rights reserved. Develop By <a href="http://teitramega.co.id" target="_blank">Teitra Mega</a>
-        .<small>
+        .</small>
    </div>
 </footer>
         <div class="modal animated fadeIn modal-danger" id="logout" tabindex="-1" data-backdrop="static" data-keyboard="false">
